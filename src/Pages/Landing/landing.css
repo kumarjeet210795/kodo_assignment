@@ -1,0 +1,31 @@
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.pagination-main-container {
+    margin: 2%;
+    display: flex;
+    justify-content: center;
+}
+
+.first-header-main-wrapper {
+    margin: 2%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.previous-btn-wrapper {
+    margin-right: 20px;
+    cursor: pointer;
+}
+
+.next-btn-wrapper {
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+.pagination-link {
+    text-decoration: underline;
+}
